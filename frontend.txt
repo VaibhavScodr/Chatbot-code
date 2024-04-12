@@ -1,2 +1,4 @@
+
 #This is frontend design
 C:\Users\vaibh\AppData\Local\Temp\10d7d7ef-59b0-4409-a52b-0ca27457b270_PandeyjiChatBotCodebasicsProject (1).zip.270\frontend\banner.jpg
+file:///C:/Users/vaibh/AppData/Local/Temp/450c219d-df83-4144-a809-e7e21ed1781f_PandeyjiChatBotCodebasicsProject%20(1).zip.81f/frontend/home.html
