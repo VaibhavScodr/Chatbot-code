@@ -1,0 +1,5 @@
+# These are the iteams for shop
+C:\Users\vaibh\AppData\Local\Temp\a83f2b94-cb0c-4117-aa5e-b7906ca17633_PandeyjiChatBotCodebasicsProject (1).zip.633\frontend\menu1.jpg
+# The other iteams
+C:\Users\vaibh\AppData\Local\Temp\a164283d-c82c-469b-9418-7bdbd66aaf41_PandeyjiChatBotCodebasicsProject (1).zip.f41\frontend\menu2.jpg
+C:\Users\vaibh\AppData\Local\Temp\6e800e79-b385-463b-a2c2-d6d6dcf01522_PandeyjiChatBotCodebasicsProject (1).zip.522\frontend\menu3.jpg
